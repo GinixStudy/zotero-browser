@@ -1,1 +1,1 @@
-374f12c971021fa45b9100047c6ce54d2b2fc0a07fc7bd77570e10a9c9378528  dist/zotero-browser-v0.3.2.xpi
+e9567f81e7530da72052ec7580d19f4b1ea96f4fd68fcabc96a28d1acf303595  dist/zotero-browser-v0.3.3.xpi

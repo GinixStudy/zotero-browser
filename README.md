@@ -35,3 +35,9 @@ to Zotero 9.0.* until additional versions are tested.
 ## License
 
 No open-source license has been selected yet. All rights reserved.
+
+## v0.3.3
+
+Fixed Zotero installation validation by restoring the required
+`applications.zotero.update_url` and pointing it to this repository's
+`updates.json`.

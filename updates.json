@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "zotero-browser@ginixstudy.github.io": {
+      "updates": [
+        {
+          "version": "0.3.3",
+          "update_link": "https://raw.githubusercontent.com/GinixStudy/zotero-browser/main/dist/zotero-browser-v0.3.3.xpi",
+          "update_hash": "sha256:e9567f81e7530da72052ec7580d19f4b1ea96f4fd68fcabc96a28d1acf303595",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "9.0",
+              "strict_max_version": "9.0.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
