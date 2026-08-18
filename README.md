@@ -34,7 +34,15 @@ to Zotero 9.0.* until additional versions are tested.
 
 ## License
 
-No open-source license has been selected yet. All rights reserved.
+This project is licensed for **non-commercial use** under the
+**PolyForm Noncommercial License 1.0.0**.
+
+Commercial use is not permitted under this license without separate written
+permission from the copyright holder.
+
+See the `LICENSE` file for the applicable terms.
+
+Copyright © 2026 GinixStudy.
 
 ## v0.3.3
 
