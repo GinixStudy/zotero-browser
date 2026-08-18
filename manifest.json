@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Zotero Browser",
+  "version": "0.3.2",
+  "description": "A lightweight embedded web browser for Zotero's Item Pane.",
+  "applications": {
+    "zotero": {
+      "id": "zotero-browser@ginixstudy.github.io",
+      "strict_min_version": "9.0",
+      "strict_max_version": "9.0.*"
+    }
+  },
+  "icons": {
+    "48": "icons/magic-deer-48.png",
+    "96": "icons/magic-deer-96.png"
+  },
+  "author": "GinixStudy",
+  "homepage_url": "https://github.com/GinixStudy/zotero-browser"
+}
